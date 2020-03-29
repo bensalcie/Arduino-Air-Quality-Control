@@ -3,10 +3,14 @@ Salben Air Quality control is an arduino and PHP based project that tends to sen
  <p float="center">
  
   <img src="https://github.com/bensalcie/Arduino-Air-Quality-Control/blob/master/airweb.png" />
+  
+</p>
+
+ <p float="center">
+ 
   <img src="https://github.com/bensalcie/Arduino-Air-Quality-Control/blob/master/esp.jpg" /> 
   
 </p>
-  
 
 
 # Installation Guidelines.
