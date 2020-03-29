@@ -22,7 +22,7 @@ This can be applied in many field such as hospitals, schools, and data anlystics
   
   <p float="center">
  
-  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190610-185152.png" width="150" />
+  <img src="https://github.com/bensalcie/Arduino-Air-Quality-Control/blob/master/airweb.png" width="150" />
   <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190613-214339.png" width="150" /> 
   
 </p>
