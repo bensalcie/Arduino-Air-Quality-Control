@@ -1,6 +1,12 @@
 # Arduino Air Quality Control
 Salben Air Quality control is an arduino and PHP based project that tends to send data from MQ series sensors into MySQL database hosted remotely at realtime. With this project one is able to draw and anaylse various sensor data into graphs and be able to come up with a predictive model of the data set.
-
+ <p float="center">
+ 
+  <img src="https://github.com/bensalcie/Arduino-Air-Quality-Control/blob/master/airweb.png" />
+  <img src="https://github.com/bensalcie/Arduino-Air-Quality-Control/blob/master/esp.jpg" /> 
+  
+</p>
+  
 
 
 # Installation Guidelines.
@@ -20,13 +26,7 @@ This can be applied in many field such as hospitals, schools, and data anlystics
 
 
   
-  <p float="center">
  
-  <img src="https://github.com/bensalcie/Arduino-Air-Quality-Control/blob/master/airweb.png" />
-  <img src="https://github.com/bensalcie/Arduino-Air-Quality-Control/blob/master/esp.jpg" /> 
-  
-</p>
-  
 
   
   # Disclaimer
